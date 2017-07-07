@@ -1,7 +1,14 @@
-# awesome-CoreML-models
-Collection of models for Core ML.
+<img src="core-ml.png" align="left" width="64"> 
 
-### 1. MobileNet
+# Awesome Core ML models
+This repository has a collection of Open Source machine learning models which work with Apples **Core ML** standard.
+
+If you want your model added simply create a pull request with your repository and model added. 
+Apple has also published some of their own models. They can be downloaded [here](https://developer.apple.com/machine-learning/).
+
+Those published models are: **SqueezeNet, Places205-GoogLeNet, ResNet50, Inception v3, VGG16**.
+
+### MobileNet
 Model: MobileNet.mlmodel
 
 Description: Object detection, finegrain classification, face attributes and large scale geo-localization
@@ -12,7 +19,7 @@ Reference: [MobileNets: Efficient Convolutional Neural Networks for Mobile Visio
 
 Example: [MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
 
-### 2. MNIST
+### MNIST
 Model: MNIST.mlmodel
 
 Description: Handwritten digit classification
