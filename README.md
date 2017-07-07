@@ -1,4 +1,4 @@
-<img src="core-ml.png" align="left" width="48"> 
+<img src="core-ml.png" align="left" width="64"> 
 
 # Awesome Core ML models
 This repository has a collection of Open Source machine learning models which work with Apples **Core ML** standard.
