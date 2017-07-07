@@ -7,7 +7,7 @@ Apple has published some of their own models. They can be downloaded [here](http
 Those published models are: **SqueezeNet, Places205-GoogLeNet, ResNet50, Inception v3, VGG16** and will not be republished in this repository.
 
 ## Contributing
-If you want your model added simply create a pull request with your repository and model added. In order to keep this repository of high quality you have to conform to this project structure (taken from **@hollance**).
+If you want your model added simply create a pull request with your repository and model added. In order to keep the quality of this repository high you have to conform to this project structure (taken from **@hollance**).
 
 ```
 ├── Convert
