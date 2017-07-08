@@ -1,6 +1,7 @@
 <img src="core-ml.png" align="left" width="64"> 
 
-# Awesome Core ML models
+# Awesome Core ML models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 This repository has a collection of Open Source machine learning models which work with Apples **Core ML** standard.
 
 Apple has published some of their own models. They can be downloaded [here](https://developer.apple.com/machine-learning/).
