@@ -1,3 +1,6 @@
 [submodule "MNIST-CoreML"]
 	path = MNIST-CoreML
 	url = https://github.com/ph1ps/MNIST-CoreML
+[submodule "MobileNet-CoreML"]
+	path = MobileNet-CoreML
+	url = https://github.com/hollance/MobileNet-CoreML
