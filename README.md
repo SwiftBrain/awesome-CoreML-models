@@ -55,3 +55,14 @@ Author: [Philipp Gabriel](https://github.com/ph1ps)
 Reference: [MNIST handwritten digit database](http://yann.lecun.com/exdb/mnist/)
 
 Example: [MNIST-CoreML](https://github.com/ph1ps/MNIST-CoreML)
+
+### Food101
+Model: Food101.mlmodel
+
+Description: Food classification
+
+Author: [Philipp Gabriel](https://github.com/ph1ps)
+
+Reference: [UPMC Food-101](http://visiir.lip6.fr/explore)
+
+Example: [Food101-CoreML](https://github.com/ph1ps/Food101-CoreML)
