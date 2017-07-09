@@ -55,3 +55,15 @@ Author: [Philipp Gabriel](https://github.com/ph1ps)
 Reference: [MNIST handwritten digit database](http://yann.lecun.com/exdb/mnist/)
 
 Example: [MNIST-CoreML](https://github.com/ph1ps/MNIST-CoreML)
+
+
+### MNIST
+Model: Mnist model (+ keras trainer)
+
+Description: Handwritten digit classification
+
+Author: [brett koonce](https://github.com/asparagui)
+
+Reference: [MNIST handwritten digit database](http://yann.lecun.com/exdb/mnist/)
+
+Example: [MNIST-CoreML](https://github.com/asparagui/keras_mnist_demo)
