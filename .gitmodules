@@ -1,0 +1,3 @@
+[submodule "MNIST-CoreML"]
+	path = MNIST-CoreML
+	url = https://github.com/ph1ps/MNIST-CoreML
