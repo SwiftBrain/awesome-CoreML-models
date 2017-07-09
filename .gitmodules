@@ -1,9 +1,0 @@
-[submodule "MNIST-CoreML"]
-	path = MNIST-CoreML
-	url = https://github.com/ph1ps/MNIST-CoreML
-[submodule "MobileNet-CoreML"]
-	path = MobileNet-CoreML
-	url = https://github.com/hollance/MobileNet-CoreML
-[submodule "Food101-CoreML"]
-	path = Food101-CoreML
-	url = https://github.com/ph1ps/Food101-CoreML

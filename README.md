@@ -35,7 +35,7 @@ You also have to have an Xcode project where the user can test the model (sample
 ## Models
 
 ### MobileNet
-Model: MobileNet.mlmodel
+Model: [MobileNet.mlmodel](https://github.com/hollance/MobileNet-CoreML/raw/master/MobileNet.mlmodel)
 
 Description: Object detection, finegrain classification, face attributes and large scale geo-localization
 
@@ -46,7 +46,7 @@ Reference: [MobileNets: Efficient Convolutional Neural Networks for Mobile Visio
 Example: [MobileNet-CoreML](https://github.com/hollance/MobileNet-CoreML)
 
 ### MNIST
-Model: MNIST.mlmodel
+Model: [MNIST.mlmodel](https://github.com/ph1ps/MNIST-CoreML/raw/master/MNISTPrediction/MNIST.mlmodel)
 
 Description: Handwritten digit classification
 
@@ -57,7 +57,7 @@ Reference: [MNIST handwritten digit database](http://yann.lecun.com/exdb/mnist/)
 Example: [MNIST-CoreML](https://github.com/ph1ps/MNIST-CoreML)
 
 ### Food101
-Model: Food101.mlmodel
+Model: [Food101.mlmodel](https://github.com/ph1ps/Food101-CoreML/raw/master/Food101Prediction/Food101.mlmodel)
 
 Description: Food classification
 
