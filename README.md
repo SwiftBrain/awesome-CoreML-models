@@ -81,7 +81,7 @@ Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
 ### GenderNet
 Model: [GenderNet](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing)
 
-Description: Gender classification
+Description: Gender Classification
 
 Author: [Gil Levi and Tal Hassner](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 
