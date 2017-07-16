@@ -81,7 +81,7 @@ Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
 ### AgeNet
 Model: [AgeNet](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing)
 
-Description: Age classification
+Description: Age Classification
 
 Author: [Gil Levi and Tal Hassner](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
 
