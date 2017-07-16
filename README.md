@@ -66,3 +66,14 @@ Author: [Philipp Gabriel](https://github.com/ph1ps)
 Reference: [UPMC Food-101](http://visiir.lip6.fr/explore)
 
 Example: [Food101-CoreML](https://github.com/ph1ps/Food101-CoreML)
+
+### SentimentPolarity
+Model: [SentimentPolarity](https://github.com/cocoa-ai/SentimentCoreMLDemo/raw/master/SentimentPolarity/Resources/SentimentPolarity.mlmodel)
+
+Description: Sentiment Polarity Analysis
+
+Author: [Vadym Markov](https://github.com/vadymmarkov)
+
+Reference: [Epinions.com reviews dataset](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
+
+Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
