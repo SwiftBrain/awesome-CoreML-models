@@ -77,3 +77,14 @@ Author: [Vadym Markov](https://github.com/vadymmarkov)
 Reference: [Epinions.com reviews dataset](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 
 Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
+
+### NamesDT
+Model: [NamesDT](https://github.com/cocoa-ai/NamesCoreMLDemo/raw/master/Names/Resources/NamesDT.mlmodel)
+
+Description: Gender Classification from first names
+
+Author: [http://nlpforhackers.io](http://nlpforhackers.io)
+
+Reference: [Is it a boy or a girl? An introduction to Machine Learning](http://nlpforhackers.io/introduction-machine-learning/)
+
+Example: [NamesCoreMLDemo](https://github.com/cocoa-ai/NamesCoreMLDemo)
