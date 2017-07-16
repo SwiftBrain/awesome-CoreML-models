@@ -79,7 +79,7 @@ Reference: [Epinions.com reviews dataset](http://boston.lti.cs.cmu.edu/classes/9
 Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
 
 ### VisualSentimentCNN
-Model: [VisualSentimentCNN](https://drive.google.com/open?id=0B1ghKa_MYL6meTZRT3U5b0o5amc)
+Model: [VisualSentimentCNN](https://drive.google.com/open?id=0B1ghKa_MYL6mZ0dITW5uZlgyNTg)
 
 Description: Visual Sentiment Prediction
 
