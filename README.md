@@ -77,3 +77,14 @@ Author: [Vadym Markov](https://github.com/vadymmarkov)
 Reference: [Epinions.com reviews dataset](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 
 Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
+
+### GenderNet
+Model: [GenderNet](https://drive.google.com/file/d/0B1ghKa_MYL6mYkNsZHlyc2ZuaFk/view?usp=sharing)
+
+Description: Gender classification
+
+Author: [Gil Levi and Tal Hassner](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/)
+
+Reference: [Age and Gender Classification using Convolutional Neural Networks](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf)
+
+Example: [FacesVisionDemo](https://github.com/cocoa-ai/FacesVisionDemo)
