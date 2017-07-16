@@ -77,3 +77,14 @@ Author: [Vadym Markov](https://github.com/vadymmarkov)
 Reference: [Epinions.com reviews dataset](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 
 Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
+
+### VisualSentimentCNN
+Model: [VisualSentimentCNN](https://drive.google.com/open?id=0B1ghKa_MYL6meTZRT3U5b0o5amc)
+
+Description: Visual Sentiment Prediction
+
+Author: [Image Processing Group - BarcelonaTECH - UPC](https://github.com/imatge-upc)
+
+Reference: [From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction](https://github.com/imatge-upc/sentiment-2017-imavis)
+
+Example: [SentimentVisionDemo](https://github.com/cocoa-ai/SentimentVisionDemo)
