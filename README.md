@@ -77,3 +77,14 @@ Author: [Vadym Markov](https://github.com/vadymmarkov)
 Reference: [Epinions.com reviews dataset](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 
 Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
+
+### FlickrStyle
+Model: [FlickrStyle](https://drive.google.com/file/d/0B1ghKa_MYL6maFFWR3drLUFNQ1E/view?usp=sharing)
+
+Description: Image Style Classification
+
+Author: [Sergey Karayev](https://gist.github.com/sergeyk)
+
+Reference: [Recognizing Image Style](http://sergeykarayev.com/files/1311.3715v3.pdf)
+
+Example: [StylesVisionDemo](https://github.com/cocoa-ai/StylesVisionDemo)
