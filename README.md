@@ -77,3 +77,14 @@ Author: [Vadym Markov](https://github.com/vadymmarkov)
 Reference: [Epinions.com reviews dataset](http://boston.lti.cs.cmu.edu/classes/95-865-K/HW/HW3/)
 
 Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
+
+### CNNEmotions
+Model: [CNNEmotions](https://drive.google.com/file/d/0B1ghKa_MYL6mTlYtRGdXNFlpWDQ/view?usp=sharing)
+
+Description: Emotion Recognition
+
+Author: [Gil Levi and Tal Hassner](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/)
+
+Reference: [Emotion Recognition in the Wild via Convolutional Neural Networks and Mapped Binary Patterns](http://www.openu.ac.il/home/hassner/projects/cnn_emotions/LeviHassnerICMI15.pdf)
+
+Example: [FacesVisionDemo](https://github.com/cocoa-ai/FacesVisionDemo)
