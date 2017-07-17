@@ -78,6 +78,17 @@ Reference: [Epinions.com reviews dataset](http://boston.lti.cs.cmu.edu/classes/9
 
 Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
 
+### Oxford102
+Model: [Oxford102](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing)
+
+Description: Flower Classification
+
+Author: [Jimmie Goode](https://github.com/jimgoo)
+
+Reference: [Classifying images in the Oxford 102 flower dataset with CNNs](http://jimgoo.com/flower-power/)
+
+Example: [FlowersVisionDemo](https://github.com/cocoa-ai/FlowersVisionDemo)
+
 ### FlickrStyle
 Model: [FlickrStyle](https://drive.google.com/file/d/0B1ghKa_MYL6maFFWR3drLUFNQ1E/view?usp=sharing)
 
