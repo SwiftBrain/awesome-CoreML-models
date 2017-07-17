@@ -78,6 +78,17 @@ Reference: [Epinions.com reviews dataset](http://boston.lti.cs.cmu.edu/classes/9
 
 Example: [SentimentCoreMLDemo](https://github.com/cocoa-ai/SentimentCoreMLDemo)
 
+### VisualSentimentCNN
+Model: [VisualSentimentCNN](https://drive.google.com/open?id=0B1ghKa_MYL6mZ0dITW5uZlgyNTg)
+
+Description: Visual Sentiment Prediction
+
+Author: [Image Processing Group - BarcelonaTECH - UPC](https://github.com/imatge-upc)
+
+Reference: [From Pixels to Sentiment: Fine-tuning CNNs for Visual Sentiment Prediction](https://github.com/imatge-upc/sentiment-2017-imavis)
+
+Example: [SentimentVisionDemo](https://github.com/cocoa-ai/SentimentVisionDemo)
+
 ### AgeNet
 Model: [AgeNet](https://drive.google.com/file/d/0B1ghKa_MYL6mT1J3T1BEeWx4TWc/view?usp=sharing)
 
