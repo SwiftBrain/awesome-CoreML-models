@@ -88,3 +88,25 @@ Author: [http://nlpforhackers.io](http://nlpforhackers.io)
 Reference: [Is it a boy or a girl? An introduction to Machine Learning](http://nlpforhackers.io/introduction-machine-learning/)
 
 Example: [NamesCoreMLDemo](https://github.com/cocoa-ai/NamesCoreMLDemo)
+
+### Oxford102
+Model: [Oxford102](https://drive.google.com/file/d/0B1ghKa_MYL6meDBHT2NaZGxkNzQ/view?usp=sharing)
+
+Description: Flower Classification
+
+Author: [Jimmie Goode](https://github.com/jimgoo)
+
+Reference: [Classifying images in the Oxford 102 flower dataset with CNNs](http://jimgoo.com/flower-power/)
+
+Example: [FlowersVisionDemo](https://github.com/cocoa-ai/FlowersVisionDemo)
+
+### FlickrStyle
+Model: [FlickrStyle](https://drive.google.com/file/d/0B1ghKa_MYL6maFFWR3drLUFNQ1E/view?usp=sharing)
+
+Description: Image Style Classification
+
+Author: [Sergey Karayev](https://gist.github.com/sergeyk)
+
+Reference: [Recognizing Image Style](http://sergeykarayev.com/files/1311.3715v3.pdf)
+
+Example: [StylesVisionDemo](https://github.com/cocoa-ai/StylesVisionDemo)
