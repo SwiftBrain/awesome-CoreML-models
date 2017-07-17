@@ -12,9 +12,9 @@ If you want your model added simply create a pull request with your repository a
 
 ```
 ├── Convert
-│   ├── coreml.py
-│   ├── mobilenet_deploy.prototxt
-│   └── synset_words.txt
+    ├── coreml.py
+    ├── mobilenet_deploy.prototxt
+    └── synset_words.txt
 ```
 
 There has to be a **Convert** directory with a Python script and additional data to reproduce this model on your own. If your model requires a huge amount of space please include a script which downloads those files.
