@@ -8,17 +8,16 @@ Apple has published some of their own models. They can be downloaded [here](http
 Those published models are: **SqueezeNet, Places205-GoogLeNet, ResNet50, Inception v3, VGG16** and will not be republished in this repository.
 
 ## Contributing
-If you want your model added simply create a pull request with your repository and model added. In order to keep the quality of this repository high you have to conform to this project structure (taken from **@hollance**).
+If you want your model added simply create a pull request with your repository and model added. In order to keep the quality of this repository you have to conform to this project structure (taken from **@hollance**).
 
 ```
 ├── Convert
 │   ├── coreml.py
 │   ├── mobilenet_deploy.prototxt
 │   └── synset_words.txt
-├── MobileNet.mlmodel
 ```
 
-There has to be a **Convert** directory with the Python script and additional data to reproduce this model on your own. If your model requires a huge amount of data please include a script which downloads those files. The **.mlmodel** file is optional because you'll have to push it onto this repository anyways.
+There has to be a **Convert** directory with a Python script and additional data to reproduce this model on your own. If your model requires a huge amount of space please include a script which downloads those files.
 
 ```
 ├── MobileNetCoreML
