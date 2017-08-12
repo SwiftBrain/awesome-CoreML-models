@@ -57,7 +57,7 @@ This is a template for the README to copy:
 **Example:** [MNIST-CoreML](https://github.com/ph1ps/MNIST-CoreML) <br />
 
 ### Food101
-**Model:** [Food101.mlmodel](https://github.com/ph1ps/Food101-CoreML/raw/master/Food101Prediction/Food101.mlmodel) <br />
+**Model:** [Food101.mlmodel](https://drive.google.com/open?id=0B5TjkH3njRqnVjBPZGRZbkNITjA) <br />
 **Description:** Food classification <br />
 **Author:** [Philipp Gabriel](https://github.com/ph1ps) <br />
 **Reference:** [UPMC Food-101](http://visiir.lip6.fr/explore) <br />
