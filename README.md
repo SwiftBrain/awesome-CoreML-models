@@ -118,3 +118,17 @@ This is a template for the README to copy:
 **Author:** [Sergey Karayev](https://gist.github.com/sergeyk) <br />
 **Reference:** [Recognizing Image Style](http://sergeykarayev.com/files/1311.3715v3.pdf) <br />
 **Example:** [StylesVisionDemo](https://github.com/cocoa-ai/StylesVisionDemo) <br />
+
+## Model Demonstration App
+
+<p align="left">
+    <img src="https://github.com/eugenebokhan/Awesome-ML/raw/master/Media/header.png", width="640">
+</p>
+<p align="left">
+    <img src="https://github.com/eugenebokhan/Awesome-ML/raw/master/Media/Cards_Scroll_Demonstration_640.gif", width="640">
+</p>
+
+**Description:** Discover, download, on-device-compile & launch different image processing CoreML models on iOS. <br />
+**Author:** [Eugene Bokhan](https://github.com/eugenebokhan) <br />
+**Source:** [Awesome ML](https://github.com/eugenebokhan/Awesome-ML) <br />
+**Lincese:** [BSD 3-Clause](https://github.com/eugenebokhan/Awesome-ML/blob/master/LICENSE.md) <br />
